@@ -1,3 +1,36 @@
 # MyProfile
-seeking opportunities with professional organizations in finance-related fields to gain experience and fulfill my curious mind about financial work. While I am currently studying CFA preparation materials, making me need a clearer understanding of the professional environment and find the theoretical aspects to be somewhat limiting.
-Hence, I aim to put what I have learned into practice and learn new skills that are not covered in my school faster through internship this time. I look forward to contributing and working with professionals in your organization.
+📍 GPA of 3.57
+
+📍SKILLS
+
+-basic R, Python, Power IB [ stat and stock analysis]
+
+-basic SunSystems [import data from MC-opera to SunSystems]
+
+-Opera [AR and JV Credit Card (Dr.-Cr.) ]
+
+-Materials Control(MC) [ receiving, PO, PR ]
+
+-Microsoft Word Power point
+
+-Excel [ shortcut, time value of money function, VLOOKUP, Math-Stat Functions, Conditional Functions, Data Functions, text to columns, Get data, FORECAST Function, etc. ]
+
+📍 WORK EXPERIENCE
+
+-Research assistance | 2024
+
+-Finance and Accounting Internship | 2024
+General Cashier, Finance Controller, Accounts payable, Income, Purchasing, Receiving, and Cost Control
+DusitD2 Samyan Bangkok
+
+📍 ACHIEVEMENT AND ACTIVITY
+
+-Bond Academy competition
+
+-Vice president, Investor Club at Naresuan
+
+-R2M competition
+
+-Exchange Student, South Korea, Jeonbuk National University
+
+-Exchange Student, Japan, Soka University
